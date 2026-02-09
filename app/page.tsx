@@ -295,6 +295,7 @@ const horariosData = {
       dia: "Terça-feira",
       itens: [
         "07:00 - 08:00 | Jiu Jitsu Adulto",
+        "08:15 - 09:15 | Jiu Jitsu Infantil",
         "16:00 - 17:00 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 aos 14 anos)",
@@ -316,11 +317,12 @@ const horariosData = {
       dia: "Quinta-feira",
       itens: [
         "07:00 - 08:00 | Jiu Jitsu Adulto",
+        "08:15 - 09:15 | Jiu Jitsu Infantil",
         "16:00 - 17:00 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 aos 14 anos)",
-        "20:00 - 21:00 | Jiu Jitsu para Competição",
-        "21:00 - 22:00 | Jiu Jitsu Adulto (Victor)"
+        "20:00 - 21:00 | Jiu Jitsu Adulto (Victor)",
+        "21:00 - 22:00 | Jiu Jitsu para Competição"
       ]
     },
     {
@@ -346,6 +348,7 @@ const horariosData = {
       dia: "Tuesday",
       itens: [
         "07:00 - 08:00 | Adult Jiu Jitsu",
+        "08:15 - 09:15 | Kids Jiu Jitsu",
         "16:00 - 17:00 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Youth Jiu Jitsu (8 to 14 years)",
@@ -367,11 +370,12 @@ const horariosData = {
       dia: "Thursday",
       itens: [
         "07:00 - 08:00 | Adult Jiu Jitsu",
+        "08:15 - 09:15 | Kids Jiu Jitsu",
         "16:00 - 17:00 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Youth Jiu Jitsu (8 to 14 years)",
-        "20:00 - 21:00 | Competition Jiu Jitsu",
-        "21:00 - 22:00 | Adult Jiu Jitsu (Victor)"
+        "20:00 - 21:00 | Adult Jiu Jitsu (Victor)",
+        "21:00 - 22:00 | Competition Jiu Jitsu"
       ]
     },
     {
@@ -397,6 +401,7 @@ const horariosData = {
       dia: "Martes",
       itens: [
         "07:00 - 08:00 | Jiu Jitsu Adulto",
+        "08:15 - 09:15 | Jiu Jitsu Infantil",
         "16:00 - 17:00 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 a 14 años)",
@@ -418,11 +423,12 @@ const horariosData = {
       dia: "Jueves",
       itens: [
         "07:00 - 08:00 | Jiu Jitsu Adulto",
+        "08:15 - 09:15 | Jiu Jitsu Infantil",
         "16:00 - 17:00 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 a 14 años)",
-        "20:00 - 21:00 | Jiu Jitsu para Competición",
-        "21:00 - 22:00 | Jiu Jitsu Adulto (Victor)"
+        "20:00 - 21:00 | Jiu Jitsu Adulto (Victor)",
+        "21:00 - 22:00 | Jiu Jitsu para Competición"
       ]
     },
     {
