@@ -328,7 +328,6 @@ const horariosData = {
     {
       dia: "Sexta-feira",
       itens: [
-        "08:00 - 09:00 | Jiu Jitsu Infantil (5 aos 11 anos)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (Misto)",
         "20:00 - 21:30 | Jiu Jitsu Adulto Lutas"
       ]
@@ -381,7 +380,6 @@ const horariosData = {
     {
       dia: "Friday",
       itens: [
-        "08:00 - 09:00 | Kids Jiu Jitsu (5 to 11 years)",
         "18:40 - 19:40 | Kids Jiu Jitsu (Mixed)",
         "20:00 - 21:30 | Adult Jiu Jitsu Sparring"
       ]
@@ -434,7 +432,6 @@ const horariosData = {
     {
       dia: "Viernes",
       itens: [
-        "08:00 - 09:00 | Jiu Jitsu Infantil (5 a 11 años)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (Mixto)",
         "20:00 - 21:30 | Jiu Jitsu Adulto Combate"
       ]
