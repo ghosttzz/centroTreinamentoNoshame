@@ -299,8 +299,7 @@ const horariosData = {
         "16:30 - 17:30 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 anos)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 aos 14 anos)",
-        "20:00 - 21:00 | Jiu Jitsu Adulto",
-        "21:00 - 22:00 | Jiu Jitsu Nogi"
+        "20:00 - 21:15 | Jiu Jitsu Adulto",
       ]
     },
     {
@@ -359,8 +358,7 @@ const horariosData = {
         "16:30 - 17:30 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Kids Jiu Jitsu (4 to 7 years)",
         "18:40 - 19:40 | Youth Jiu Jitsu (8 to 14 years)",
-        "20:00 - 21:00 | Adult Jiu Jitsu",
-        "21:00 - 22:00 | Nogi Jiu Jitsu"
+        "20:00 - 21:15 | Adult Jiu Jitsu",
       ]
     },
     {
@@ -419,8 +417,7 @@ const horariosData = {
         "16:30 - 17:30 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Infantil (4 a 7 años)",
         "18:40 - 19:40 | Jiu Jitsu Juvenil (8 a 14 años)",
-        "20:00 - 21:00 | Jiu Jitsu Adulto",
-        "21:00 - 22:00 | Jiu Jitsu Nogi"
+        "20:00 - 21:15 | Jiu Jitsu Adulto",
       ]
     },
     {
