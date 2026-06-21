@@ -9,7 +9,7 @@ const translations = {
   pt: {
     history: {
       title: "Nossa História",
-      text: "A NoShameBJJ nasce do Jiu-Jitsu tradicional, com base familiar, ética e respeito à essência da arte suave. Aqui, o treino vai além da luta: é um caminho de autoconhecimento, disciplina e liberdade. Acreditamos que cada pessoa tem seu próprio tempo, sua história e sua forma de evoluir. Por isso, criamos um ambiente seguro, humano e responsável, onde crianças, mulheres, homens e famílias podem treinar sem máscaras, sem ego e sem vergonha de ser quem são. Nosso Jiu-Jitsu é passado de geração em geração, valorizando a constância, a humildade e a verdade, dentro e fora do tatame."
+      text: "A Escola de Jiu Jitsu No Shame nasce do Jiu-Jitsu tradicional, com base familiar, ética e respeito à essência da arte suave. Aqui, o treino vai além da luta: é um caminho de autoconhecimento, disciplina e liberdade. Acreditamos que cada pessoa tem seu próprio tempo, sua história e sua forma de evoluir. Por isso, criamos um ambiente seguro, humano e responsável, onde crianças, mulheres, homens e famílias podem treinar sem máscaras, sem ego e sem vergonha de ser quem são. Nosso Jiu-Jitsu é passado de geração em geração, valorizando a constância, a humildade e a verdade, dentro e fora do tatame."
     },
     nav: {
       inicio: "Início",
@@ -36,7 +36,7 @@ const translations = {
       kimonoDesc: "Você só precisa adquirir seu kimono após 1 mês de matrícula. Comece treinando com roupas confortáveis enquanto se adapta!",
       btnAgendar: "Agendar Aula Experimental Gratuita",
       ambTitle: "Ambiente Profissional e Acolhedor",
-      ambDesc: "O maior centro de treinamento da Lagoa, com 80m² de tatame de lona. Um ambiente acolhedor para os alunos, com Wi-Fi liberado, café, petiscos, sofá e mesas de trabalho, tudo pensado para oferecer o máximo conforto ao praticante e aos seus acompanhantes."
+      ambDesc: "O maior centro de treinamento da Lagoa, com 124,75m² de tatame de lona. Um ambiente acolhedor para os alunos, com Wi-Fi liberado, café, petiscos, sofá e mesas de trabalho, tudo pensado para oferecer o máximo conforto ao praticante e aos seus acompanhantes."
     },
     about: {
       professorName: "Professor David Pavesi",
@@ -46,6 +46,14 @@ const translations = {
         "Seu trabalho segue uma metodologia consciente e acessível, respeitando o tempo, o perfil e os objetivos individuais de cada aluno, tanto no Jiu-Jitsu adulto quanto no infantil. No tatame, prioriza um ambiente seguro, acolhedor e disciplinado, onde a evolução acontece com constância e sem vaidade.",
         "Como pai e educador, acredita no Jiu-Jitsu como base sólida para a formação de crianças e adultos, contribuindo para o desenvolvimento físico, emocional e social. Sua didática clara e paciente cria um ambiente de pertencimento, motivação e confiança.",
         "Mais do que formar atletas, David Pavesi tem como missão formar pessoas, preservando a tradição e a essência da arte suave, com valores que se refletem dentro e fora do tatame."
+      ],
+      professorName2: "Professor Victor Pavesi",
+      bio2: [
+        "Victor Pavesi é cofundador da No Shame Jiu Jitsu, natural de Santa Catarina, e carrega uma trajetória construída dentro do Jiu-Jitsu desde muito cedo. Aos 20 anos de idade, possui 17 anos de vivência na arte suave, estando presente no tatame desde os 4 anos, acompanhando de perto o impacto transformador que o esporte teve em sua própria vida e em sua formação pessoal.",
+        "Com uma experiência construída ao longo de praticamente toda a sua vida, compreende como poucos o papel do Jiu-Jitsu no desenvolvimento físico, emocional e disciplinar de crianças, jovens e adultos. Sua missão vai além do ensino técnico: Victor acredita no esporte como uma ferramenta capaz de transformar vidas, desenvolver caráter, fortalecer a confiança e construir valores que acompanham o aluno dentro e fora do tatame.",
+        "Atuando com turmas infantis e adultas, dedica-se a criar um ambiente acolhedor, disciplinado e seguro, respeitando o processo individual de evolução de cada praticante. Sua metodologia busca não apenas ensinar golpes e técnicas, mas também transmitir princípios fundamentais como respeito, perseverança, humildade e autocontrole.",
+        "Mesmo atuando profissionalmente na área de tecnologia, Victor mantém a convicção de que o Jiu-Jitsu possui impacto positivo nas mais diversas áreas da vida, contribuindo para o crescimento pessoal, profissional e emocional de cada indivíduo.",
+        "Seu propósito é compartilhar a paixão que desenvolveu pelo esporte ao longo de sua trajetória, utilizando o ensino do Jiu-Jitsu como instrumento de transformação e desenvolvimento, especialmente na formação de crianças e jovens, preparando-os não apenas para o esporte, mas para a vida."
       ]
     },
     mission: {
@@ -99,7 +107,7 @@ const translations = {
   en: {
     history: {
       title: "Our History",
-      text: "NoShameBJJ was born from traditional Jiu-Jitsu, with a family foundation, ethics, and respect for the essence of the gentle art. Here, training goes beyond fighting: it is a path of self-knowledge, discipline, and freedom. We believe that each person has their own time, story, and way to evolve. That's why we created a safe, human, and responsible environment where children, women, men, and families can train without masks, without ego, and without shame of being who they are. Our Jiu-Jitsu is passed down from generation to generation, valuing consistency, humility, and truth, on and off the mat."
+      text: "The No Shame Jiu Jitsu School was born from traditional Jiu-Jitsu, with a family foundation, ethics, and respect for the essence of the gentle art. Here, training goes beyond fighting: it is a path of self-knowledge, discipline, and freedom. We believe that each person has their own time, story, and way to evolve. That's why we created a safe, human, and responsible environment where children, women, men, and families can train without masks, without ego, and without shame of being who they are. Our Jiu-Jitsu is passed down from generation to generation, valuing consistency, humility, and truth, on and off the mat."
     },
     nav: {
       inicio: "Home",
@@ -137,6 +145,14 @@ const translations = {
         "His work is based on a conscious and accessible methodology, respecting the time, profile, and individual goals of each student—whether in adult or children's Jiu-Jitsu. On the mat, he prioritizes a safe, welcoming, and disciplined environment where everyone can evolve consistently and without vanity.",
         "As a father and educator, he believes in Jiu-Jitsu as a solid foundation for the development of children and adults, contributing not only to physical development but also to emotional and social growth. His clear and patient teaching style makes students feel motivated, confident, and part of a true family.",
         "More than just forming practitioners, Professor David Pavesi's mission is to form people, strengthening values that are reflected both on and off the mat, always with respect for family, tradition, and the essence of the gentle art."
+      ],
+      professorName2: "Professor Victor Pavesi",
+      bio2: [
+        "Victor Pavesi is co-founder of No Shame Jiu Jitsu, a native of Santa Catarina, and carries a trajectory built within Jiu-Jitsu from an early age. At 20 years old, he has 17 years of experience in the gentle art, having been on the mat since age 4, closely observing the transformative impact that the sport has had on his own life and personal formation.",
+        "With experience built over practically his entire life, he understands as few do the role of Jiu-Jitsu in the physical, emotional, and disciplinary development of children, youth, and adults. His mission goes beyond technical instruction: Victor believes in the sport as a tool capable of transforming lives, developing character, strengthening confidence, and building values that accompany the student on and off the mat.",
+        "Working with children's and adult classes, he dedicates himself to creating a welcoming, disciplined, and safe environment, respecting the individual evolution process of each practitioner. His methodology seeks not only to teach techniques and moves, but also to transmit fundamental principles such as respect, perseverance, humility, and self-control.",
+        "Even while working professionally in the technology field, Victor maintains the conviction that Jiu-Jitsu has a positive impact in the most diverse areas of life, contributing to the personal, professional, and emotional growth of each individual.",
+        "His purpose is to share the passion he has developed for the sport throughout his trajectory, using Jiu-Jitsu instruction as an instrument of transformation and development, especially in the formation of children and youth, preparing them not only for the sport, but for life."
       ]
     },
     mission: {
@@ -190,7 +206,7 @@ const translations = {
   es: {
     history: {
       title: "Nuestra Historia",
-      text: "NoShameBJJ nace del Jiu-Jitsu tradicional, con base familiar, ética y respeto a la esencia del arte suave. Aquí, el entrenamiento va más allá de la lucha: es un camino de autoconocimiento, disciplina y libertad. Creemos que cada persona tiene su propio tiempo, su historia y su forma de evolucionar. Por eso, creamos un ambiente seguro, humano y responsable, donde niños, mujeres, hombres y familias pueden entrenar sin máscaras, sin ego y sin vergüenza de ser quienes son. Nuestro Jiu-Jitsu se transmite de generación en generación, valorando la constancia, la humildad y la verdad, dentro y fuera del tatami."
+      text: "La Escuela de Jiu Jitsu No Shame nace del Jiu-Jitsu tradicional, con base familiar, ética y respeto a la esencia del arte suave. Aquí, el entrenamiento va más allá de la lucha: es un camino de autoconocimiento, disciplina y libertad. Creemos que cada persona tiene su propio tiempo, su historia y su forma de evolucionar. Por eso, creamos un ambiente seguro, humano y responsable, donde niños, mujeres, hombres y familias pueden entrenar sin máscaras, sin ego y sin vergüenza de ser quienes son. Nuestro Jiu-Jitsu se transmite de generación en generación, valorando la constancia, la humildad y la verdad, dentro y fuera del tatami."
     },
     nav: {
       inicio: "Inicio",
@@ -228,6 +244,14 @@ const translations = {
         "Su trabajo se basa en una metodología consciente y accesible, respetando el tiempo, el perfil y los objetivos individuales de cada alumno, ya sea en el Jiu-Jitsu adulto o infantil. En el tatami, prioriza un ambiente seguro, acogedor y disciplinado, donde todos puedan evolucionar con constancia y sin vanidad.",
         "Como padre y educador, cree en el Jiu-Jitsu como base sólida para la formación de niños y adultos, contribuyendo no solo al desarrollo físico, sino también al emocional y social. Su didáctica clara y paciente hace que los alumnos se sientan motivados, confiados y parte de una verdadera familia.",
         "Más que formar practicantes, el Profesor David Pavesi tiene como misión formar personas, fortaleciendo valores que se reflejan dentro y fuera del tatami, siempre con respeto a la familia, la tradición y la esencia del arte suave."
+      ],
+      professorName2: "Profesor Victor Pavesi",
+      bio2: [
+        "Victor Pavesi es cofundador de No Shame Jiu Jitsu, natural de Santa Catarina, y lleva una trayectoria construida dentro del Jiu-Jitsu desde muy temprana edad. A los 20 años de edad, posee 17 años de vivencia en el arte suave, estando presente en el tatami desde los 4 años, presenciando de cerca el impacto transformador que el deporte ha tenido en su propia vida y su formación personal.",
+        "Con una experiencia construida a lo largo de prácticamente toda su vida, comprende como pocos el papel del Jiu-Jitsu en el desarrollo físico, emocional y disciplinario de niños, jóvenes y adultos. Su misión va más allá de la instrucción técnica: Victor cree en el deporte como una herramienta capaz de transformar vidas, desarrollar carácter, fortalecer la confianza y construir valores que acompañan al alumno dentro y fuera del tatami.",
+        "Actuando con clases infantiles y adultas, se dedica a crear un ambiente acogedor, disciplinado y seguro, respetando el proceso individual de evolución de cada practicante. Su metodología busca no solo enseñar golpes y técnicas, sino también transmitir principios fundamentales como respeto, perseverancia, humildad y autocontrol.",
+        "Incluso trabajando profesionalmente en el área de tecnología, Victor mantiene la convicción de que el Jiu-Jitsu posee impacto positivo en las más diversas áreas de la vida, contribuyendo al crecimiento personal, profesional y emocional de cada individuo.",
+        "Su propósito es compartir la pasión que ha desarrollado por el deporte a lo largo de su trayectoria, utilizando la enseñanza del Jiu-Jitsu como instrumento de transformación y desarrollo, especialmente en la formación de niños y jóvenes, preparándolos no solo para el deporte, sino para la vida."
       ]
     },
     mission: {
@@ -735,6 +759,7 @@ export default function Page() {
   const [language, setLanguage] = useState<Language>('pt');
   const [menuOpen, setMenuOpen] = useState(false);
   const [isChangingLanguage, setIsChangingLanguage] = useState(false);
+  const [currentProfessor, setCurrentProfessor] = useState(0); // 0 = David, 1 = Victor
 
   // Scroll reveal refs
   const benefitsReveal = useScrollReveal();
@@ -1113,14 +1138,28 @@ export default function Page() {
           <div className="grid gap-8 md:grid-cols-2 md:items-stretch">
             <div className="relative h-full min-h-[400px] md:min-h-0 md:h-auto flex-1 flex items-stretch">
               <div className="relative w-full h-full min-h-[400px] md:min-h-0 md:h-auto overflow-hidden rounded-3xl border border-[#5d5d5d] bg-[#5d5d5d]/20 flex-1 flex items-stretch">
-                <Image src="/fotoProfessor.jpeg" alt="Professor" fill className="object-cover md:object-cover object-top" style={{objectFit:'cover'}} />
+                <Image src={currentProfessor === 0 ? "/fotoProfessor.jpeg" : "/fotoProfessorVictor.jpeg"} alt="Professor" fill className="object-cover md:object-cover object-top" style={{objectFit:'cover'}} />
               </div>
             </div>
             <div className="flex flex-col justify-center">
-              <h2 className="text-2xl font-bold tracking-tight">{t.about.professorName}</h2>
-              {t.about.bio.map((paragraph: string, idx: number) => (
+              <h2 className="text-2xl font-bold tracking-tight">{currentProfessor === 0 ? t.about.professorName : t.about.professorName2}</h2>
+              {(currentProfessor === 0 ? t.about.bio : t.about.bio2).map((paragraph: string, idx: number) => (
                 <p key={idx} className="mt-3 text-[#c0c0c0] leading-relaxed">{paragraph}</p>
               ))}
+              <div className="flex gap-3 mt-8">
+                <button
+                  onClick={() => setCurrentProfessor(0)}
+                  className={`px-4 py-2 rounded-lg transition-colors ${currentProfessor === 0 ? 'bg-white text-black' : 'bg-[#5d5d5d] text-white hover:bg-[#6d6d6d]'}`}
+                >
+                  David Pavesi
+                </button>
+                <button
+                  onClick={() => setCurrentProfessor(1)}
+                  className={`px-4 py-2 rounded-lg transition-colors ${currentProfessor === 1 ? 'bg-white text-black' : 'bg-[#5d5d5d] text-white hover:bg-[#6d6d6d]'}`}
+                >
+                  Victor Pavesi
+                </button>
+              </div>
             </div>
           </div>
         </div>
